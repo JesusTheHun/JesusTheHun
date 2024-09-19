@@ -13,7 +13,7 @@ Amazing developer experience when using the Couchbase database.
 - ⚡️ `@cbjsdev/http-client` provides functions to interact with your Couchbase cluster without the need of C++ binary.  
 - 🧪 `@cbjsdev/vitest` run your integration tests concurrently with built-in keyspace isolation.  
 - 🧰 `@cbjsdev/n1ql-parser` exposes an Antlr parser for N1QL queries.
-- 🦾 `@cbjsdev/deploy` gives you the tools to make sure you and your team work with the same cluster topology and configuration.
+- 🦾 `@cbjsdev/deploy` gives you the tools to make sure your team works with the same cluster topology and configuration.
 
   
 [Website](https://cbjs.dev)  
